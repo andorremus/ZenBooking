@@ -1,0 +1,6 @@
+The purchase made on 02-May-2015 with inv no:2 is made up of a holiday in Dubrovnik for 10nights at a/an Bed and Breakfast.The price before VAT is 1316.64,and the price after VAT is 1645.8
+The purchase made on 02-May-2015 with inv no:3 is made up of a holiday in Paris for 14nights at a/an Youth Hostel.The price before VAT is 670.08,and the price after VAT is 837.6
+The purchase made on 02-May-2015 with inv no:4 is made up of a holiday in Dubrovnik for 10nights at a/an Bed and Breakfast.The price before VAT is 373.44,and the price after VAT is 466.79999999999995
+The purchase made on 02-May-2015 with inv no:5 is made up of a holiday in Geneve for 10nights at a/an Ski Resort.The price before VAT is 778.32,and the price after VAT is 972.9
+The purchase made on 02-May-2015 with inv no:6 is made up of a holiday in Crete for 14nights at a/an Villa.The price before VAT is 948.48,and the price after VAT is 1185.6
+The purchase made on 02-May-2015 with inv no:7 is made up of a holiday in Bali for 10nights at a/an Hut.The price before VAT is 863.04,and the price after VAT is 1078.8
